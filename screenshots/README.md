@@ -1,1 +1,1 @@
-# NewsMonkey Webapp Screenshots!
+### NewsMonkey Webapp Screenshots
